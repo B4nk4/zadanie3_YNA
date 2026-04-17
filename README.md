@@ -1,4 +1,4 @@
-# zadanie3_YNA
+# zadanie3_YNA_C++
 ~~~
 #include <iostream>
 using namespace std;
