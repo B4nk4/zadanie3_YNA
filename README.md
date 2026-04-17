@@ -1,5 +1,5 @@
 # zadanie3_YNA
-
+~~~
 #include <iostream>
 using namespace std;
 int main()
@@ -13,3 +13,4 @@ int main()
     }
     cout << x;
 }
+~~~
